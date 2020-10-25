@@ -1,0 +1,19 @@
+{
+  "name": "MMM-python",
+  "version": "0.1",
+  "description": "Displays results from a python script",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M3chanik/MMM-python"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Python"
+  ],
+  "author": "M3chanik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/M3chanik/MMM-python/issues"
+  },
+  "homepage": "https://github.com/M3chanik/MMM-python"
+}

@@ -1,0 +1,14 @@
+.MMM-python .title {
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.MMM-python .key {
+	/*font-weight: bold;*/
+}
+
+.MMM-python .value {
+    /*font-style: italic;*/
+	font-size: 58px;
+}
+
