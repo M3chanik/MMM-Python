@@ -33,7 +33,7 @@ module.exports = NodeHelper.create({
 	var path = this.config.pythonscript + " ";
 
     async.parallel([
-      async.apply(exec, 'python3 /home/pi/MagicMirror/modules/MMM-python/maskday.py')
+      async.apply(exec, this.config.pythonscript)
     ],
     function (err, res) {
       var stats = {};

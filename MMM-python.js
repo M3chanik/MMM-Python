@@ -10,8 +10,7 @@ Module.register('MMM-python', {
   defaults: {
 	updateInterval: 1000000,
 	animationSpeed: 0,
-	header: 'Python Script Title',
-	pythonscript: 'python3 /home/pi/MagicMirror/modules/MMM-python/maskday.py'
+	header: 'Python Script Title'
   },
 
     getStyles: function () {
